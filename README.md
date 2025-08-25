@@ -1,6 +1,6 @@
 # COVID-19 DNA/RNA Sequence Analysis Pipeline
 
-A comprehensive bioinformatics toolkit that applies digital signal processing and information theory to analyze COVID-19 genetic sequences. This project combines sequence digitization, entropy analysis, and spectral methods to extract meaningful patterns from viral genomic data.
+A comprehensive bioinformatics toolkit that applies digital signal processing and information theory to analyze COVID-19 genetic sequences. This project combines sequence digitization, entropy analysis, and spectral methods to extract meaningful patterns from viral genomic  data.
 
 ## 🧬 Overview
 
